@@ -1,5 +1,5 @@
 # Dash Runner
 
-Oynanabilir derleme: https://iaydin51.github.io/dash-runner-oyna/
+Play: https://iaydin51.github.io/dash-runner-play/ (English: add ?dil=en)
 
-Kaynak kod ayrı (özel) depodadır. © 2026 Flashpaw Games. Tüm hakları saklıdır.
+Built files only; source code lives in a private repo. © 2026 Flashpaw Games. All rights reserved.
